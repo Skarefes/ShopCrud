@@ -32,3 +32,4 @@ Desenvolvimento de uma aplicação back-end utilizando Java e Spring Boot para g
 ## Futuras atualizações:
 1. Sistema de cadastro
 2. Sistema de segurança por tolken
+3. Interface front-end
