@@ -28,3 +28,7 @@ Desenvolvimento de uma aplicação back-end utilizando Java e Spring Boot para g
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/shop.git
+
+## Futuras atualizações:
+1. Sistema de cadastro
+2. Sistema de segurança por tolken
